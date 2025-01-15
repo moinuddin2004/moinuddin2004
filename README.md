@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moin Uddin</h1>
 <h3 align="center">A Full stack developer</h3>
+<p> Hello! I'm Syed Moin Uddin, a passionate and dedicated full-stack developer currently in my 6th semester at SSUET (Sir Syed University of Engineering and Technology). My journey in programming started with a love for JavaScript, and since then, I’ve expanded my expertise to include React, Node.js, Angular, and Java Spring Boot.
 
+I thrive on building dynamic, scalable web applications and continuously seek to improve my skills and stay updated with the latest industry trends. Currently, I'm diving deep into Java Spring Boot for backend development and Angular for the frontend. I’m also exploring the exciting fields of Generative AI and Agentic AI to stay ahead in this rapidly evolving tech landscape.
+
+Let’s connect and collaborate on innovative projects!</p>
 - 🌱 I’m currently learning **Agentic Ai**
 
 - 💬 Ask me about **Spring Boot , React**
